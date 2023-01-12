@@ -23,6 +23,11 @@ const Navbar = () => {
             </Link>
           </li>
           <NavLinks />
+          <li>
+            <Link to="/about" className="py-7 px-3 inline-block">
+              About
+            </Link>
+          </li>
         </ul>
         <div className="md:block hidden">
           <Button />

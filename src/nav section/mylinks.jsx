@@ -38,31 +38,5 @@ export const links = [
     
     ],
   },
-  {
-    name: "About",
-    submenu: true,
-    sublinks: [
-      {
-        Head: "Topwear",
-        
-      },
-      {
-        Head: "Bottomwear",
-      
-      },
-      {
-        Head: "innerwear",
-       
-      },
-
-      {
-        Head: "sleepwear",
-      
-      },
-      {
-        Head: "footwear",
-       
-      },
-    ],
-  },
+ 
 ];
